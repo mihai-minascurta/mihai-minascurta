@@ -1,21 +1,25 @@
-# 👋 Hi, I'm Mihai
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi, I'm Mihai
 
-- 🚀 DevOps & Automation Enthusiast  
-- 💻 Passionate about Linux, Security, CI/CD, Infrastructure and Cloud 
-- 📌 I am considering transitioning into Cybersecurity after working in DevOps 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=435&lines=DevOps+%26+Automation;Python+Enthusiast;Cybersecurity+Enthusiast;Linux+User;Always+Learning" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">🚀 DevOps & Automation</td>
+<td align="center">🐍 Python</td>
+<td align="center">📜 Bash</td>
+<td align="center">🐧 Linux</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 🧠 About Me
 
-- 🎓 IT Student (📖Bucharest University of Economic Studies)
-- 🐧 Linux user
-- ⚙️ Interested in DevOps, Automation, Cloud and Cyber Security
-- 🎸 Passionate about music, specifically playing the guitar and singing
-- 💪🏼 I maintain a disciplined daily exercise routine
-- ⭐ Always learning and building new things
-
----
 
 ## 🧰 Languages and Tools
 
@@ -100,10 +104,7 @@
 
 ### 🤝 Let's connect
 
-<div align="center"><a href="https://github.com/mihai-minascurta"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://linkedin.com/in/mihai-minascurta"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a><br> <br><img src="https://komarev.com/ghpvc/?username=mihai-minascurta&style=flat-square&color=blueviolet" alt="Profile views"><br> <br><a href="https://github.com/mihai-minascurta?tab=repositories"> <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"> </a><br> <br>
-<i>✨ "Always learning, always building, always improving" ✨</i>
-
-</div>
+<div align="center"><a href="https://github.com/mihai-minascurta"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a><a href="https://www.linkedin.com/in/m%C3%AEn%C4%83scurt%C4%83-mihail-70b75b372/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a><a href="mailto:officialminascurtamihai@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a><br> <br><img src="https://komarev.com/ghpvc/?username=mihai-minascurta&style=flat-square&color=blueviolet" alt="Profile views"><br> <br><a href="https://github.com/mihai-minascurta?tab=repositories"> <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"> </a><br> <br><hr style="height:1px; border:none; background-color:#ff79c6; opacity:0.3; width:50%;"><br> <i>✨ "Always learning, always building, always improving" ✨</i></div>
 
 ---
 
@@ -112,7 +113,5 @@
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mihai-minascurta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="70%"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihai-minascurta&theme=radical&hide_border=true" width="70%"> <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihai-minascurta&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%"> </div>
-
-
 
 
