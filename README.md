@@ -19,7 +19,27 @@
 
 ---
 
+## 🧠 Profile Terminal
 
+> [!IMPORTANT]
+> **System Status:** `Active` | **Focus:** `Infrastructure & Security`
+
+```zsh
+$ whoami
+mihai-minascurta (IT Student @ Bucharest University of Economic Studies)
+
+$ fetch --interests
+• 🐧 Linux Enthusiast (Daily driver)
+• 🛡️ DevOps, Cloud & Cyber Security
+• ⭐ Continuous Learning & Innovation
+
+$ fetch --lifestyle
+• 🎸 Music: Playing guitar & singing
+• 💪 Discipline: Rigorous fitness regimen
+• 🚀 Goal: Transforming code into secure infrastructure
+```
+
+---
 
 ## 🧰 Languages and Tools
 
