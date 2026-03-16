@@ -124,13 +124,100 @@ $ fetch --lifestyle
   <img src="https://placehold.co/1000x2/C3B550/C3B550.png" width="100%" height="1" alt="Yellow Divider"/>
 </h3>
 
+<div align="center">
+  <img src="https://placehold.co/1000x3/A9FEF7/A9FEF7.png" width="100%" height="3"/>
+</div>
+
 <h3>
   📦 Other Projects
   <img src="https://placehold.co/1000x2/C3B550/C3B550.png" width="100%" height="1" alt="Yellow Divider"/>
 </h3>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">📚 Words Learning App</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Tkinter-FF6B6B?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<p><strong>📚 Flashcard app</strong> - Tkinter GUI for learning Romanian vocabulary with flip animation and multi-level progression.</p>
+<a href="https://github.com/mihai-minascurta/words-learning-app">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github">
+</a>
+</div>
+</td>
 
-<table> <tr> <td width="50%"> <h3 align="center">📚 Words Learning App</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/words-learning-app" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a> <p> <strong>🧠 Language learning tool</strong> - Interactive web app for learning new words with flashcards, quizzes, and progress tracking. Perfect for vocabulary expansion. </p> <p> <a href="https://github.com/mihai-minascurta/words-learning-app"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td><td width="50%"> <h3 align="center">🎵 Spotify Playlist Creator</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/spotify-playlist-creator" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a> <p> <strong>🎧 Automated playlist generator</strong> - Creates personalized Spotify playlists based on your listening habits, favorite genres, or custom criteria using the Spotify Web API. </p> <p> <a href="https://github.com/mihai-minascurta/spotify-playlist-creator"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td> </tr><tr> <td width="50%"> <h3 align="center">🎬 Top 10 Movies Site</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/top-10-movies" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white"></a> <p> <strong>🍿 Movie ranking platform</strong> - Web app that displays top 10 movies from different genres, allows users to vote, and fetches real-time movie data from TMDB API. </p> <p> <a href="https://github.com/mihai-minascurta/top-10-movies"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td><td width="50%"> <h3 align="center">🔐 Secure Auth App</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/secure-auth-app" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"></a> <p> <strong>🛡️ Authentication system</strong> - Secure user authentication with password hashing, JWT tokens, email verification, and rate limiting. Perfect starting point for any web app. </p> <p> <a href="https://github.com/mihai-minascurta/secure-auth-app"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td> </tr><tr> <td width="50%"> <h3 align="center">📶 Internet Speed Tester</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/internet-speed-tester" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Speedtest-141526?style=for-the-badge&logo=speedtest&logoColor=white"></a> <p> <strong>⚡ Network monitoring tool</strong> - Python script that measures download/upload speeds and ping, logs results over time, and alerts you when speeds drop below threshold. </p> <p> <a href="https://github.com/mihai-minascurta/internet-speed-tester"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td><td width="50%"> <h3 align="center">📊 Automated Data Entry</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/data-entry-job" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"></a> <p> <strong>🤖 Automation bot</strong> - Web scraping and automated form filling tool that extracts data from websites and populates spreadsheets/databases automatically. </p> <p> <a href="https://github.com/mihai-minascurta/data-entry-job"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td> </tr> </table>
+<td width="50%">
+<h3 align="center">🎵 Spotify Playlist Creator</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white">
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white">
+<p><strong>🎧 Billboard to Spotify</strong> - Scrapes Billboard Hot 100 and creates Spotify playlists automatically via OAuth.</p>
+<a href="https://github.com/mihai-minascurta/spotify-playlist-creator">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github">
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">🎬 Top 10 Movies Site</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/SQLAlchemy-FF6B6B?style=flat-square&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white">
+<p><strong>🍿 Movie ranking</strong> - Flask app with TMDB API integration, SQLite database, and dynamic ranking system.</p>
+<a href="https://github.com/mihai-minascurta/top-10-movies-site">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github">
+</a>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🔐 Secure Auth App</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Flask--Login-FF6B6B?style=flat-square&logo=flask&logoColor=white">
+<p><strong>🔒 Auth system</strong> - User registration/login with password hashing, session management, and protected routes.</p>
+<a href="https://github.com/mihai-minascurta/secure-auth-app">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github">
+</a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">📶 Internet Speed Tester</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
+<p><strong>⚡ Speed test + Reddit</strong> - Measures internet speed then auto-posts results to Reddit using Selenium.</p>
+<a href="https://github.com/mihai-minascurta/internet-speed-tester">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github">
+</a>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">📊 Automated Data Entry</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white">
+<p><strong>🤖 Apartment scraper</strong> - Extracts apartment data and auto-fills Google Forms via Selenium automation.</p>
+<a href="https://github.com/mihai-minascurta/automated-data-entry-job">
+<img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github">
+</a>
+</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img src="https://placehold.co/1000x3/A9FEF7/A9FEF7.png" width="100%" height="3"/>
