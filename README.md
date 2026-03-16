@@ -137,13 +137,27 @@ $ fetch --lifestyle
 </div>
 
 <h3>
-  🤝 Let's connect
+  🤝 Let's connect<br>
   <img src="https://placehold.co/1000x2/C3B550/C3B550.png" width="100%" height="1" alt="Yellow Divider"/>
 </h3>
 
-<div align="center"><a href="https://github.com/mihai-minascurta"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a><a href="https://www.linkedin.com/in/m%C3%AEn%C4%83scurt%C4%83-mihail-70b75b372/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a><a href="mailto:officialminascurtamihai@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a><br> <br><img src="https://komarev.com/ghpvc/?username=mihai-minascurta&style=flat-square&color=blueviolet" alt="Profile views"><br> <br><a href="https://github.com/mihai-minascurta?tab=repositories"> <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"> </a><br> <br><hr style="height:1px; border:none; background-color:#ff79c6; opacity:0.3; width:50%;"><br> <i>✨ "Always learning, always building, always improving" ✨</i></div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=Open+for+collaborations!;Let's+build+something+cool!" alt="Status" /><br><br>
+  
+  <a href="https://github.com/mihai-minascurta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="220"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/m%C3%AEn%C4%83scurt%C4%83-mihail-70b75b372/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="220"></a><br><br>
+  
+  <img src="https://img.shields.io/badge/Drop_me_an_email:-181717?style=for-the-badge&logo=gmail&logoColor=FE428E" width="280"><br>
+  <samp style="font-size: 20px;">officialminascurtamihai@gmail.com</samp><br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=mihai-minascurta&style=for-the-badge&color=FE428E" width="280" alt="Profile views"><br><br>
+  
+  <a href="https://github.com/mihai-minascurta?tab=repositories"><img src="https://img.shields.io/badge/🔍_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" width="350"></a>
+</div>
 
 <div align="center">
+  <br><br>
   <img src="https://placehold.co/1000x3/A9FEF7/A9FEF7.png" width="100%" height="3"/>
 </div>
 
