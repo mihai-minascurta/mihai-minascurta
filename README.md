@@ -17,7 +17,9 @@
 </table>
 </div>
 
----
+<div align="center">
+  <img src="https://placehold.co/1000x3/A9FEF7/A9FEF7.png" width="100%" height="3"/>
+</div>
 
 ## 🧠 Profile Terminal
 
@@ -39,94 +41,96 @@ $ fetch --lifestyle
 • 🚀 Goal: Transforming code into secure infrastructure
 ```
 
----
+<div align="center">
+  <img src="https://placehold.co/1000x3/A9FEF7/A9FEF7.png" width="100%" height="3"/>
+</div>
 
-## 🧰 Languages and Tools
-
-<table align="center">
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=linux" width="45"/><br>
-<sub>Linux</sub>
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="45"/><br>
-<sub>Git</sub>
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=docker" width="45"/><br>
-<sub>Docker</sub>
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=jenkins" width="45"/><br>
-<sub>Jenkins</sub>
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=githubactions" width="45"/><br>
-<sub>Actions</sub>
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="45"/><br>
-<sub>GitHub</sub>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bash" width="45"/><br>
-<sub>Bash</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
-<sub>Python</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cloudflare" width="45"/><br>
-<sub>Networking</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=selenium" width="45"/><br>
-<sub>Selenium</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="45"/><br>
-<sub>C</sub>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>
-<sub>C++</sub>
-</td>
-</tr>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FE428E&center=true&vCenter=true&width=500&lines=%F0%9F%A7%B0+Languages+and+Tools;%E2%9A%A1+My+Tech+Stack;%F0%9F%92%BB+Code.+Deploy.+Repeat." alt="Animated Header" />
+  <br><br>
+  
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/Linux-FE428E?style=for-the-badge&logo=linux&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/Git-FE428E?style=for-the-badge&logo=git&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/Docker-FE428E?style=for-the-badge&logo=docker&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/Jenkins-FE428E?style=for-the-badge&logo=jenkins&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/Actions-FE428E?style=for-the-badge&logo=githubactions&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/GitHub-FE428E?style=for-the-badge&logo=github&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/Bash-FE428E?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/Python-FE428E?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/Network-FE428E?style=for-the-badge&logo=cloudflare&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=selenium&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/Selenium-FE428E?style=for-the-badge&logo=selenium&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/C-FE428E?style=for-the-badge&logo=c&logoColor=white">
+    </td>
+    <td align="center" width="120" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/C++-FE428E?style=for-the-badge&logo=cplusplus&logoColor=white">
+    </td>
+  </tr>
 </table>
+</div>
 
----
+<div align="center">
+  <img src="https://placehold.co/1000x3/A9FEF7/A9FEF7.png" width="100%" height="3"/>
+</div>
 
 ### 🚀 DevOps Projects
 
----
+<div align="center">
+  <img src="https://placehold.co/1000x3/A9FEF7/A9FEF7.png" width="100%" height="3"/>
+</div>
 
 ### 📦 Other Projects
 
 
 <table> <tr> <td width="50%"> <h3 align="center">📚 Words Learning App</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/words-learning-app" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a> <p> <strong>🧠 Language learning tool</strong> - Interactive web app for learning new words with flashcards, quizzes, and progress tracking. Perfect for vocabulary expansion. </p> <p> <a href="https://github.com/mihai-minascurta/words-learning-app"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td><td width="50%"> <h3 align="center">🎵 Spotify Playlist Creator</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/spotify-playlist-creator" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a> <p> <strong>🎧 Automated playlist generator</strong> - Creates personalized Spotify playlists based on your listening habits, favorite genres, or custom criteria using the Spotify Web API. </p> <p> <a href="https://github.com/mihai-minascurta/spotify-playlist-creator"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td> </tr><tr> <td width="50%"> <h3 align="center">🎬 Top 10 Movies Site</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/top-10-movies" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white"></a> <p> <strong>🍿 Movie ranking platform</strong> - Web app that displays top 10 movies from different genres, allows users to vote, and fetches real-time movie data from TMDB API. </p> <p> <a href="https://github.com/mihai-minascurta/top-10-movies"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td><td width="50%"> <h3 align="center">🔐 Secure Auth App</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/secure-auth-app" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"></a> <p> <strong>🛡️ Authentication system</strong> - Secure user authentication with password hashing, JWT tokens, email verification, and rate limiting. Perfect starting point for any web app. </p> <p> <a href="https://github.com/mihai-minascurta/secure-auth-app"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td> </tr><tr> <td width="50%"> <h3 align="center">📶 Internet Speed Tester</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/internet-speed-tester" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Speedtest-141526?style=for-the-badge&logo=speedtest&logoColor=white"></a> <p> <strong>⚡ Network monitoring tool</strong> - Python script that measures download/upload speeds and ping, logs results over time, and alerts you when speeds drop below threshold. </p> <p> <a href="https://github.com/mihai-minascurta/internet-speed-tester"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td><td width="50%"> <h3 align="center">📊 Automated Data Entry</h3> <div align="center"> <a href="https://github.com/mihai-minascurta/data-entry-job" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"></a> <p> <strong>🤖 Automation bot</strong> - Web scraping and automated form filling tool that extracts data from websites and populates spreadsheets/databases automatically. </p> <p> <a href="https://github.com/mihai-minascurta/data-entry-job"> <img src="https://img.shields.io/badge/-View_Code-181717?style=flat-square&logo=github"> </a> </p> </div> </td> </tr> </table>
 
----
+<div align="center">
+  <img src="https://placehold.co/1000x3/A9FEF7/A9FEF7.png" width="100%" height="3"/>
+</div>
 
 ### 🤝 Let's connect
 
 <div align="center"><a href="https://github.com/mihai-minascurta"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a><a href="https://www.linkedin.com/in/m%C3%AEn%C4%83scurt%C4%83-mihail-70b75b372/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a><a href="mailto:officialminascurtamihai@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a><br> <br><img src="https://komarev.com/ghpvc/?username=mihai-minascurta&style=flat-square&color=blueviolet" alt="Profile views"><br> <br><a href="https://github.com/mihai-minascurta?tab=repositories"> <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white"> </a><br> <br><hr style="height:1px; border:none; background-color:#ff79c6; opacity:0.3; width:50%;"><br> <i>✨ "Always learning, always building, always improving" ✨</i></div>
 
----
+<div align="center">
+  <img src="https://placehold.co/1000x3/A9FEF7/A9FEF7.png" width="100%" height="3"/>
+</div>
 
 
 ### 📈 GitHub Activity
