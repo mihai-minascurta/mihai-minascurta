@@ -233,7 +233,7 @@ $ fetch --lifestyle
   
   <a href="https://github.com/mihai-minascurta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="220"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/m%C3%AEn%C4%83scurt%C4%83-mihail-70b75b372/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="220"></a><br><br>
+  <a href="https://www.linkedin.com/in/minascurta-mihai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="220"></a><br><br>
   
   <img src="https://img.shields.io/badge/Drop_me_an_email:-181717?style=for-the-badge&logo=gmail&logoColor=FE428E" width="280"><br>
   <samp style="font-size: 20px;">officialminascurtamihai@gmail.com</samp><br><br>
