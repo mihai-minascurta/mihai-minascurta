@@ -254,6 +254,14 @@ $ fetch --lifestyle
   </h3>
 </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mihai-minascurta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="70%"> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihai-minascurta&theme=radical&hide_border=true" width="70%"> <br> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihai-minascurta&layout=compact&theme=radical&hide_border=true&langs_count=8" width="50%"> </div>
+<div align="center">
 
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihai-minascurta&theme=radical&hide_border=true" width="75%" alt="GitHub Streak" />
+  
+  <br/><br/>
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihai-minascurta&layout=compact&theme=radical&hide_border=true&langs_count=8" width="55%" alt="Top Languages" />
+</div>
 
