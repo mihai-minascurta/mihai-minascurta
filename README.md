@@ -70,8 +70,8 @@ $ fetch --lifestyle
       <img src="https://img.shields.io/badge/JENKINS-2F2F2F?style=for-the-badge&logo=jenkins&logoColor=white">
     </td>
     <td align="center" width="120" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="55"/><br><br>
-      <img src="https://img.shields.io/badge/ACTIONS-2F2F2F?style=for-the-badge&logo=githubactions&logoColor=white">
+      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/KUBERNETES-2F2F2F?style=for-the-badge&logo=kubernetes&logoColor=white">
     </td>
     <td align="center" width="120" style="border: none;">
       <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55"/><br><br>
@@ -139,6 +139,33 @@ $ fetch --lifestyle
 <a href="https://github.com/mihai-minascurta/devops-vpc">
 <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=39FF14">
 </a>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center" style="color: #39FF14;">📝 Audit Notes Service</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<p><strong>☸️ Kubernetes Service</strong> - Production-style local service with Ingress, probes, PVC, ConfigMap, Secret, RBAC, NetworkPolicy, Job and CronJob.</p>
+<a href="https://github.com/mihai-minascurta/audit-notes-service">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=39FF14">
+</a>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center" style="color: #39FF14;">🚧 Project Coming Soon</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Status-In_Progress-2F2F2F?style=flat-square&logo=github&logoColor=39FF14">
+<img src="https://img.shields.io/badge/DevOps-Learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Cloud-Practice-00E5FF?style=flat-square&logo=icloud&logoColor=white">
+<p><strong>🛠️ More DevOps work in progress</strong> - New hands-on project will be added here soon, focused on practical infrastructure, automation and deployment workflows.</p>
+<img src="https://img.shields.io/badge/Coming_Soon-181717?style=for-the-badge&logo=github&logoColor=39FF14">
 </div>
 </td>
 </tr>
