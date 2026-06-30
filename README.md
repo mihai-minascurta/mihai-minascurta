@@ -1,22 +1,14 @@
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hi, I'm Mihai
-  <img src="https://placehold.co/1000x2/39FF14/39FF14.png" width="100%" height="1" alt="Green Divider"/>
-</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=435&lines=DevOps+%26+Automation;Python+Enthusiast;Cybersecurity+Enthusiast;Linux+User;Always+Learning" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00E5FF,100:BC13FE&height=220&section=header&text=Hi%2C%20I'm%20Mihai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20infrastructure%2C%20one%20commit%20at%20a%20time.&descAlignY=57&descSize=19&descColor=cccccc" width="100%"/>
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" style="color: #39FF14;">🚀 DevOps & Automation</td>
-<td align="center" style="color: #00E5FF;">🐍 Python</td>
-<td align="center" style="color: #BC13FE;">📜 Bash</td>
-<td align="center" style="color: #39FF14;">🐧 Linux</td>
-</tr>
-</table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=300&color=39FF14&center=true&vCenter=true&width=480&lines=%24+terraform+apply;%24+kubectl+get+pods+-A;%24+docker+build+-t+app+.;%24+git+push+origin+main;%24+python+automate.py" alt="Typing SVG" />
 </div>
+
+
+<br>
 
 <div align="center">
   <img src="https://placehold.co/1000x3/00E5FF/00E5FF.png" width="100%" height="3"/>
@@ -28,22 +20,24 @@
 </h3>
 
 > [!IMPORTANT]
-> **System Status:** <span style="color: #39FF14;">`Active`</span> | **Focus:** <span style="color: #00E5FF;">`Infrastructure & Security`</span>
+> **System Status:** <span style="color: #39FF14;">`Active`</span> | **Focus:** <span style="color: #00E5FF;">`Infrastructure & Automation`</span>
 
 ```zsh
 $ whoami
 mihai-minascurta (IT Student @ Bucharest University of Economic Studies)
 
-$ fetch --interests
-• 🐧 Linux Enthusiast (Daily driver)
-• 🛡️ DevOps, Cloud & Cyber Security
-• ⭐ Continuous Learning & Innovation
+$ fetch --stack
+• 🐧 Linux (Daily driver)
+• ☁️ Terraform · AWS · Kubernetes · Docker
+• 🐍 Python · Bash · Git · GitHub Actions
+• 🔒 Security concepts (exploring for the future)
 
 $ fetch --lifestyle
 • 🎸 Music: Playing guitar & singing
 • 💪 Discipline: Rigorous fitness regimen
-• 🚀 Goal: Transforming code into secure infrastructure
+• 🚀 Goal: Building reliable and automated infrastructure
 ```
+
 <h3>
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=%F0%9F%A7%B0+Languages+and+Tools;%E2%9A%A1+My+Tech+Stack;%F0%9F%92%BB+Code.+Deploy.+Repeat." alt="Animated Header" />
@@ -66,8 +60,8 @@ $ fetch --lifestyle
       <img src="https://img.shields.io/badge/DOCKER-2F2F2F?style=for-the-badge&logo=docker&logoColor=white">
     </td>
     <td align="center" width="120" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="55"/><br><br>
-      <img src="https://img.shields.io/badge/JENKINS-2F2F2F?style=for-the-badge&logo=jenkins&logoColor=white">
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="55"/><br><br>
+      <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2F2F2F?style=for-the-badge&logo=githubactions&logoColor=white">
     </td>
     <td align="center" width="120" style="border: none;">
       <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="55"/><br><br>
@@ -105,211 +99,147 @@ $ fetch --lifestyle
     </td>
   </tr>
 </table>
+
 <div align="center">
   <img src="https://placehold.co/1000x3/00E5FF/00E5FF.png" width="100%" height="3"/>
 </div>
 
 <h3>
-  🚀 DevOps Projects
+  🚀 Personal Projects
   <img src="https://placehold.co/1000x2/39FF14/39FF14.png" width="100%" height="1" alt="Green Divider"/>
 </h3>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2500&pause=99999&color=39FF14&center=true&vCenter=true&width=480&lines=%24+cat+featured_project.txt+%7C+grep+MAIN" alt="featured" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%E2%9C%A6%20FEATURED%20PROJECT%20%E2%9C%A6-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%94%A8%20Actively%20Improving-00E5FF?style=for-the-badge&labelColor=0d1117&color=00E5FF"/>
+
+<br><br>
+
 <table>
 <tr>
-<td width="50%">
-<h3 align="center" style="color: #39FF14;">☁️ AWS Infrastructure Base</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<p><strong>🏗️ IaC Automation</strong> - Automated flow mapping <code>Terraform → AWS</code>.</p>
-<a href="https://github.com/mihai-minascurta/iac-aws-infrastructure-base">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=39FF14">
-</a>
-</div>
-</td>
+<td align="center">
 
-<td width="50%">
-<h3 align="center" style="color: #39FF14;">🌐 DevOps VPC</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
-<p><strong>🕸️ Cloud Networking & CI/CD</strong> - Custom VPC architecture built with an automated flow: <code>Jenkins → GitHub → Terraform → AWS</code>, including <i>apply/destroy</i> choices.</p>
-<a href="https://github.com/mihai-minascurta/devops-vpc">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=39FF14">
-</a>
-</div>
-</td>
-</tr>
+<h2>📝 Audit Notes Service</h2>
 
-<tr>
-<td width="50%">
-<h3 align="center" style="color: #39FF14;">📝 Audit Notes Service</h3>
-<div align="center">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-<p><strong>☸️ Kubernetes Service</strong> - Production-style local service with Ingress, probes, PVC, ConfigMap, Secret, RBAC, NetworkPolicy, Job and CronJob.</p>
-<a href="https://github.com/mihai-minascurta/audit-notes-service">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=39FF14">
-</a>
-</div>
-</td>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 
-<td width="50%">
-<h3 align="center" style="color: #39FF14;">🚧 Project Coming Soon</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Status-In_Progress-2F2F2F?style=flat-square&logo=github&logoColor=39FF14">
-<img src="https://img.shields.io/badge/DevOps-Learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/Cloud-Practice-00E5FF?style=flat-square&logo=icloud&logoColor=white">
-<p><strong>🛠️ More DevOps work in progress</strong> - New hands-on project will be added here soon, focused on practical infrastructure, automation and deployment workflows.</p>
-<img src="https://img.shields.io/badge/Coming_Soon-181717?style=for-the-badge&logo=github&logoColor=39FF14">
-</div>
+<br><br>
+
+<p><strong>☸️ Production-style Kubernetes service</strong> — complete with Ingress, health probes, PVC, ConfigMap, Secret, RBAC, NetworkPolicy, Job and CronJob.<br>This is my most complete and actively evolving project.</p>
+
+<a href="https://github.com/mihai-minascurta/audit-notes-service">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=39FF14">
+</a>
+
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+and+breaking+things+in+the+Cloud!;Actively+learning+new+DevOps+patterns..." alt="Learning DevOps SVG" />
-  <p style="color: #00E5FF; font-size: 14px;">
-    <i>⚙️ I allocate 2-3 solid hours daily to hands-on learning, practicing these systems, and tracking my progress on paper. These projects are a live reflection of that journey!</i>
-  </p>
 </div>
 
-<div align="center">
-  <img src="https://placehold.co/1000x3/BC13FE/BC13FE.png" width="100%" height="3"/>
-</div>
-
-<h3>
-  📦 Other Projects
-  <img src="https://placehold.co/1000x2/39FF14/39FF14.png" width="100%" height="1" alt="Green Divider"/>
-</h3>
-
-<div align="center">
-  <p style="color: #FF3333; font-weight: bold; border: 1px solid #FF3333; padding: 10px; border-radius: 5px; width: 80%;">
-    ⚠️ Note: The projects below were built a while ago during my early learning phases. They are currently pending code reviews and updates, so my memory on some specific implementations might be a bit dusty!
-  </p>
-</div>
 <br>
+
+<div align="center">
+  <img src="https://placehold.co/1000x1/39FF14/39FF14.png" width="80%" height="1"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2500&pause=99999&color=555555&center=true&vCenter=true&width=400&lines=%24+ls+%7E%2Fprojects%2F+--other" alt="ls projects" />
+  <br><br>
+</div>
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center" style="color: #39FF14;">📚 Words Learning App</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Tkinter-FF6B6B?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<p><strong>📚 Flashcard app</strong> - Tkinter GUI for learning vocabulary with flip animation.</p>
-<a href="https://github.com/mihai-minascurta/words-learning-app">
+<td width="33%" align="center">
+<h3 style="color: #39FF14;">☁️ AWS Infrastructure Base</h3>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<p><strong>🏗️ IaC Automation</strong><br>Automated flow mapping <code>Terraform → AWS</code>.</p>
+<a href="https://github.com/mihai-minascurta/iac-aws-infrastructure-base">
 <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=39FF14">
 </a>
-</div>
 </td>
 
-<td width="50%">
-<h3 align="center" style="color: #39FF14;">🎵 Spotify Playlist Creator</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white">
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white">
-<p><strong>🎧 Billboard to Spotify</strong> - Scrapes Billboard Hot 100 and creates Spotify playlists automatically.</p>
-<a href="https://github.com/mihai-minascurta/spotify-playlist-creator">
+<td width="33%" align="center">
+<h3 style="color: #39FF14;">🌐 DevOps VPC</h3>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-CI/CD-D24939?style=flat-square&logo=jenkins&logoColor=white">
+<p><strong>🕸️ Cloud Networking & CI/CD</strong><br><code>GitHub Actions → Terraform → AWS</code>, including <i>apply/destroy</i>.</p>
+<a href="https://github.com/mihai-minascurta/devops-vpc">
 <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=39FF14">
 </a>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center" style="color: #00E5FF;">🎬 Top 10 Movies Site</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/SQLAlchemy-FF6B6B?style=flat-square&logo=sqlite&logoColor=white">
-<p><strong>🍿 Movie ranking</strong> - Flask app with TMDB API integration and dynamic ranking system.</p>
-<a href="https://github.com/mihai-minascurta/top-10-movies-site">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=00E5FF">
-</a>
-</div>
 </td>
 
-<td width="50%">
-<h3 align="center" style="color: #00E5FF;">🔐 Secure Auth App</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Flask--Login-FF6B6B?style=flat-square&logo=flask&logoColor=white">
-<p><strong>🔒 Auth system</strong> - User registration/login with password hashing and session management.</p>
-<a href="https://github.com/mihai-minascurta/secure-auth-app">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=00E5FF">
-</a>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center" style="color: #BC13FE;">📶 Internet Speed Tester</h3>
-<div align="center">
+<td width="33%" align="center">
+<h3 style="color: #BC13FE;">📊 Automated Data Entry</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
-<p><strong>⚡ Speed test + Reddit</strong> - Measures internet speed then auto-posts results to Reddit.</p>
-<a href="https://github.com/mihai-minascurta/internet-speed-tester">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=BC13FE">
-</a>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center" style="color: #BC13FE;">📊 Automated Data Entry</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
-<p><strong>🤖 Apartment scraper</strong> - Extracts apartment data and auto-fills Google Forms via Selenium.</p>
+<p><strong>🤖 Apartment scraper</strong><br>Extracts apartment data and auto-fills Google Forms via Selenium.</p>
+<sub><em>⚠️ Older project — details a bit dusty.</em></sub><br><br>
 <a href="https://github.com/mihai-minascurta/automated-data-entry-job">
 <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=BC13FE">
 </a>
-</div>
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://placehold.co/1000x3/00E5FF/00E5FF.png" width="100%" height="3"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+and+breaking+things+in+the+Cloud!;Actively+learning+new+patterns+every+day...;2-3+hours+of+hands-on+practice%2C+daily." alt="Learning SVG" />
 </div>
 
+<br>
+
 <h3>
-  🤝 Let's connect<br>
+  🤝 Let's Connect<br>
   <img src="https://placehold.co/1000x2/39FF14/39FF14.png" width="100%" height="1" alt="Green Divider"/>
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Open+for+collaborations!;Let's+build+something+cool!" alt="Status" /><br><br>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=Open+to+Opportunities!;Internship+%2F+Junior+%2F+Entry-Level;Fast+Learner+%E2%80%94+Ready+to+Contribute;Startup+or+Enterprise+%E2%80%94+All+Welcome!" alt="Status" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Opportunities-39FF14?style=for-the-badge&labelColor=181717">
+  <br><br>
+
+  <table>
+  <tr>
+  <td align="center" style="padding: 14px 28px;">
+    <p><strong style="color: #00E5FF;">🎯 What I'm looking for</strong></p>
+    <img src="https://img.shields.io/badge/Internship-181717?style=flat-square&logoColor=white&color=39FF14">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Entry--Level-181717?style=flat-square&logoColor=white&color=00E5FF">
+    &nbsp;
+    <img src="https://img.shields.io/badge/Junior-181717?style=flat-square&logoColor=white&color=BC13FE">
+    <br><br>
+    <samp style="font-size: 13px;">Startup · Mid-size · Enterprise — company size doesn't matter.<br>
+    Fast learner who picks things up quickly and hits the ground running.</samp>
+  </td>
+  </tr>
+  </table>
+
+  <br>
+
   <a href="https://github.com/mihai-minascurta"><img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black" width="220"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/minascurta-mihai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="220"></a><br><br>
-  
+
   <img src="https://img.shields.io/badge/Drop_me_an_email:-181717?style=for-the-badge&logo=gmail&logoColor=39FF14" width="280"><br>
   <samp style="font-size: 20px; color: #39FF14;">officialminascurtamihai@gmail.com</samp><br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=mihai-minascurta&style=for-the-badge&color=39FF14" width="280" alt="Profile views"><br><br>
-  
-  <a href="https://github.com/mihai-minascurta?tab=repositories"><img src="https://img.shields.io/badge/🔍_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=39FF14" width="350"></a>
-</div>
 
-<div align="center">
-  <br><br>
-  <img src="https://placehold.co/1000x3/00E5FF/00E5FF.png" width="100%" height="3"/>
 </div>
-
 <div align="center">
-  <h3>🔥 GitHub Activity (Streak)</h3>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihai-minascurta&theme=tokyonight&hide_border=true&stroke=39FF14&ring=00E5FF&fire=BC13FE" width="75%" alt="GitHub Streak" />
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,50:00E5FF,100:39FF14&height=120&section=footer" width="100%"/>
 </div>
