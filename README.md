@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00E5FF,100:BC13FE&height=220&section=header&text=Hi%2C%20I'm%20Mihai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20infrastructure%2C%20one%20commit%20at%20a%20time.&descAlignY=57&descSize=19&descColor=cccccc" width="100%"/>
 </div>
@@ -27,15 +26,15 @@ $ whoami
 mihai-minascurta (IT Student @ Bucharest University of Economic Studies)
 
 $ fetch --stack
-• 🐧 Linux (Daily driver)
-• ☁️ Terraform · AWS · Kubernetes · Docker
-• 🐍 Python · Bash · Git · GitHub Actions
-• 🔒 Security concepts (exploring for the future)
+- 🐧 Linux (Daily driver)
+- ☁️ Terraform · AWS · Kubernetes · Docker
+- 🐍 Python · Bash · Git · GitHub Actions
+- 🔒 Security concepts (exploring for the future)
 
 $ fetch --lifestyle
-• 🎸 Music: Playing guitar & singing
-• 💪 Discipline: Rigorous fitness regimen
-• 🚀 Goal: Building reliable and automated infrastructure
+- 🎸 Music: Playing guitar & singing
+- 💪 Discipline: Rigorous fitness regimen
+- 🚀 Goal: Building reliable and automated infrastructure
 ```
 
 <h3>
@@ -117,33 +116,75 @@ $ fetch --lifestyle
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-%E2%9C%A6%20FEATURED%20PROJECT%20%E2%9C%A6-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14"/>
+<img src="https://img.shields.io/badge/-%E2%9C%A6%20FEATURED%20JOURNEY%20%E2%9C%A6-39FF14?style=for-the-badge&labelColor=0d1117&color=39FF14"/>
 &nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%94%A8%20Actively%20Improving-00E5FF?style=for-the-badge&labelColor=0d1117&color=00E5FF"/>
 
 <br><br>
 
+<samp>📍 Same app. Two chapters. One straight line from <code>localhost</code> to AWS.</samp>
+
+<br><br>
+
 <table>
 <tr>
-<td align="center">
 
-<h2>📝 Audit Notes Service</h2>
+<td align="center" width="46%" valign="top">
+
+<img src="https://img.shields.io/badge/STAGE%201-🖥️%20LOCAL-39FF14?style=for-the-badge&labelColor=0d1117">
+
+<h3>📝 Audit Notes Service</h3>
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 
 <br><br>
 
-<p><strong>☸️ Production-style Kubernetes service</strong> — complete with Ingress, health probes, PVC, ConfigMap, Secret, RBAC, NetworkPolicy, Job and CronJob.<br>This is my most complete and actively evolving project.</p>
+<samp>Built &amp; battle-tested on <code>kind</code> first.<br>Ingress, probes, PVC, ConfigMap, Secret,<br>RBAC, NetworkPolicy, Job, CronJob —<br>all packaged with a Helm chart.</samp>
+
+<br><br>
 
 <a href="https://github.com/mihai-minascurta/audit-notes-service">
 <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=39FF14">
 </a>
 
 </td>
+
+<td align="center" width="8%" valign="middle">
+
+<br><br><br>
+<h1>🛰️</h1>
+<samp><sub>ships<br>to</sub></samp>
+
+</td>
+
+<td align="center" width="46%" valign="top">
+
+<img src="https://img.shields.io/badge/STAGE%202-☁️%20CLOUD-00E5FF?style=for-the-badge&labelColor=0d1117">
+
+<h3>☁️ Audit Notes Service — EKS</h3>
+
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+
+<br><br>
+
+<samp>Same app, real cloud clothes.<br>VPC, EKS, IAM, ALB Controller<br>and EBS CSI — all built with<br>Terraform, one apply at a time.</samp>
+
+<br><br>
+
+<a href="https://github.com/mihai-minascurta/audit-notes-service-eks">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=00E5FF">
+</a>
+
+</td>
+
 </tr>
 </table>
 
